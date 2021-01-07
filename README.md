@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://21eolmqd3guwwqdue5znqcaea.vercel.app/api/spotify)](https://open.spotify.com/user/21eolmqd3guwwqdue5znqcaea)
+[![Spotify](https://novatorem-theta-puce.vercel.app/api/spotify)](https://open.spotify.com/user/21eolmqd3guwwqdue5znqcaea)
 
 ### Connect with me:
 
