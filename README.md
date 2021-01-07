@@ -88,7 +88,7 @@
   <img align="left" alt="northNer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
+[course]: https://infominati.com/learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one/
 [website]: https://infominati.com
 [twitter]: https://twitter.com/northner1
 [youtube]: https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
