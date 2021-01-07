@@ -5,7 +5,7 @@
 
 ## I'm a Linux Aficionado, System Admin, Developer, WannaBe Hacker and Photographer!!
 
-- 🔭 I am working on my first course: [Get started with Penetration testing!][course] !
+- 🔭 I am working on my first course: [Get started with Penetration testing!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with entrepreneurial minds.
 - 🥅 2021 Goals: Get a job and start working on side projects.
@@ -27,6 +27,8 @@
 
 ### Languages and Tools:
 
+### Languages and Tools:
+
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
@@ -38,35 +40,26 @@
 <br />
 
 
-
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Big Navi: Expectations from new RX6000 offerings from AMD](https://infominati.com/amd-big-navi-expectations-from-new-rx6000-offerings-from-amd/?utm_source=rss&utm_medium=rss&utm_campaign=amd-big-navi-expectations-from-new-rx6000-offerings-from-amd)
-- [Learn Ethical Hacking using Kali Linux from a to z: Part One](https://infominati.com/learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one/?utm_source=rss&utm_medium=rss&utm_campaign=learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one)
-- [Valorant Tips and Tricks: The Complete Guide](https://infominati.com/valorant-tips-and-tricks-the-complete-guide/?utm_source=rss&utm_medium=rss&utm_campaign=valorant-tips-and-tricks-the-complete-guide)
-- [Hostinger review: The best hosting provider in 2020](https://infominati.com/hostinger-review-the-best-hosting-provider-for-newcomers-in-2020/?utm_source=rss&utm_medium=rss&utm_campaign=hostinger-review-the-best-hosting-provider-for-newcomers-in-2020)
-- [Top 5 handguns around the world](https://infominati.com/top-5-handguns-around-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-handguns-around-the-world)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://infominati.com)
-
 
 ---
 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Endeavour OS | Installation and Review](https://www.youtube.com/watch?v=dN7wxfN3M5c)
-- [Install Metasploitable 2 on Virtualbox and set up the common network for Pentesting Lab.](https://www.youtube.com/watch?v=p6L5DDN3aeQ)
-- [How to install Kali Linux on Virtualbox?](https://www.youtube.com/watch?v=iwvDZQ-z8Lo)
-- [Backstabbing the enemy valorant](https://www.youtube.com/watch?v=-qt0rpn3ZW4)
-- [Using phoenix ultimate in valorant](https://www.youtube.com/watch?v=-q4VKpAqkcE)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA)
+
 ---
 
 <details>
@@ -85,13 +78,17 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="northNer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+
 [website]: https://infominati.com
 [course]: https://infominati.com/learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one/
 [twitter]: https://twitter.com/northner1
 [youtube]: https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
 [instagram]: https://www.instagram.com/monkeys_nd_mountains/
 [linkedin]: https://www.linkedin.com/in/dev-northner/
-[webdevplaylist]: https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
+[webdevplaylist]:  https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
+[jsplaylist]:  https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
+[cssplaylist]:  https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
+[reactplaylist]:  https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
