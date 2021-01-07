@@ -54,11 +54,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Ethical Hacking using Kali Linux from a to z: Part One](https://infominati.com/learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one/)
-- [Starting up with Git: Understanding the basics- 2020](https://infominati.com/starting-up-with-git-understanding-the-basics/)
-- [Beginner’s guide for Linux- how huge is Linux family](https://infominati.com/beginners-guide-for-linux-understanding-the-vastness/)
-- [Best Machine Learning Algorithms for Beginners in 2020](https://infominati.com/best-algorithms-for-machine-learning-beginners/)
-- [Building a pen-testing Lab in 2020](https://infominati.com/hacking-101-building-a-pen-testing-lab/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://infominati.com)
