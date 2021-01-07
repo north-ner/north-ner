@@ -59,7 +59,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Endeavour OS | Installation and Review](https://www.youtube.com/watch?v=dN7wxfN3M5c)
+- [Install Metasploitable 2 on Virtualbox and set up the common network for Pentesting Lab.](https://www.youtube.com/watch?v=p6L5DDN3aeQ)
+- [How to install Kali Linux on Virtualbox?](https://www.youtube.com/watch?v=iwvDZQ-z8Lo)
+- [Backstabbing the enemy valorant](https://www.youtube.com/watch?v=-qt0rpn3ZW4)
+- [Using phoenix ultimate in valorant](https://www.youtube.com/watch?v=-q4VKpAqkcE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA)
