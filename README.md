@@ -37,17 +37,7 @@
 <br />
 <br />
 
----
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Endeavour OS | Installation and Review](https://youtu.be/dN7wxfN3M5c)
-- [Install Metasploitable 2 on Virtualbox and set up the common network for Pentesting Lab.](https://youtu.be/p6L5DDN3aeQ)
-- [How to install Kali Linux on Virtualbox?](https://youtu.be/iwvDZQ-z8Lo)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA)
 
 ---
 
@@ -63,6 +53,16 @@
 
 ➡️ [more blog posts...](https://infominati.com)
 
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA)
 ---
 
 <details>
