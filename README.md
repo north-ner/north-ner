@@ -5,7 +5,7 @@
 
 ## I'm a Linux Aficionado, System Admin, Developer, WannaBe Hacker and Photographer!!
 
-- 🔭 I am working on my first course: [Get started with Penetration testing!][course]!
+- 🔭 I am working on my first course: [Get started with Penetration testing!][course] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with entrepreneurial minds.
 - 🥅 2021 Goals: Get a job and start working on side projects.
@@ -88,8 +88,8 @@
   <img align="left" alt="northNer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-[course]: https://infominati.com/learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one/
 [website]: https://infominati.com
+[course]: https://infominati.com/learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one/
 [twitter]: https://twitter.com/northner1
 [youtube]: https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
 [instagram]: https://www.instagram.com/monkeys_nd_mountains/
