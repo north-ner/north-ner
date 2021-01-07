@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="northner's Spotify playing" width="350" />](https://open.spotify.com/user/21eolmqd3guwwqdue5znqcaea)
+[![Spotify](https://21eolmqd3guwwqdue5znqcaea.vercel.app/api/spotify)](https://open.spotify.com/user/21eolmqd3guwwqdue5znqcaea)
 
 ### Connect with me:
 
