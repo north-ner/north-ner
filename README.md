@@ -77,7 +77,7 @@
 ---
 
 
-<img align="left" alt="northNer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=north-ner&show_icons=true&hide_border=true" />
+<img align="left" alt="northNer's GitHub Stats" src="https://github-readme-stats-kappa-gules.vercel.app//api?username=north-ner&show_icons=true&hide_border=true" />
 
 
 
