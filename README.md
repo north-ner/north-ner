@@ -45,7 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [AMD Big Navi: Expectations from new RX6000 offerings from AMD](https://infominati.com/amd-big-navi-expectations-from-new-rx6000-offerings-from-amd/?utm_source=rss&utm_medium=rss&utm_campaign=amd-big-navi-expectations-from-new-rx6000-offerings-from-amd)
+- [Learn Ethical Hacking using Kali Linux from a to z: Part One](https://infominati.com/learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one/?utm_source=rss&utm_medium=rss&utm_campaign=learn-ethical-hacking-using-kali-linux-from-a-to-z-part-one)
+- [Valorant Tips and Tricks: The Complete Guide](https://infominati.com/valorant-tips-and-tricks-the-complete-guide/?utm_source=rss&utm_medium=rss&utm_campaign=valorant-tips-and-tricks-the-complete-guide)
+- [Hostinger review: The best hosting provider in 2020](https://infominati.com/hostinger-review-the-best-hosting-provider-for-newcomers-in-2020/?utm_source=rss&utm_medium=rss&utm_campaign=hostinger-review-the-best-hosting-provider-for-newcomers-in-2020)
+- [Top 5 handguns around the world](https://infominati.com/top-5-handguns-around-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-handguns-around-the-world)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://infominati.com)
