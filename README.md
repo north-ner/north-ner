@@ -86,12 +86,8 @@
 </details>
 
 [website]: https://infominati.com
-[course]: https://www.youtube.com/watch?v=iwvDZQ-z8Lo&list=PLsSWevCWhAnEmLRsZbYW68E08fWmUySeJ
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/northner1
+[youtube]: https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
+[instagram]: https://www.instagram.com/monkeys_nd_mountains/
+[linkedin]: https://www.linkedin.com/in/dev-northner/
 [webdevplaylist]: https://www.youtube.com/channel/UCmAXDjo7sqc6Mao28_yPEuA
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
